@@ -2,6 +2,6 @@
 
 Practicing, learning about:
 
--Explicit Intents
--parent activity, label name in the Manifest
--Random number generator
+1.Explicit Intents
+2. parent activity, label name in the Manifest
+3. Random number generator
